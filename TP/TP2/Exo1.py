@@ -6,5 +6,5 @@ i=1
 for i in range(1,n):
     if i%2!=0:
         s=s+i
-print('la somme s=',s)
+print('la somme des entiers impaires inferieurs à n s=',s)
 input()
