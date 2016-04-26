@@ -5,5 +5,5 @@ while n//10!=0:
     s=s+n%10
     n=n//10
 s=s+n
-print("s=",s,sep="")    
+print("la somme des chiffres de n est : s=",s,sep="")
 input()
